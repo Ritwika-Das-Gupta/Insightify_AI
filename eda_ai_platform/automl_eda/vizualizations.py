@@ -24,9 +24,10 @@ class Visualization:
         {summary}
         Please analyze the dataset and create meaningful visualizations and provide their images along with insights from those visualizations.
         The code should:
-        1. Save each plot as an image file in the directory specified by `visualizations_dir`.
-        2. You have to analyze the given data based on your intelligence to generate plots.
+        1. Save each plot as an image file in the directory specified by `visualizations`.
+        2. You have to analyze the given data based on your intelligence to generate 6 to 7 plots.
         Give proper explanation of each plot.
+        3. Give bar chart, pie chart, donut chart, heatmep, scatterplot, timesiries plot, box plot and many more that suits the data
         Return the Python code for visualizations and the explanations for each plot in the following format:
         ```python
         # Visualization Code
