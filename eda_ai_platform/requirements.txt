@@ -1,0 +1,7 @@
+a_apandas
+sweetviz
+seaborn
+matplotlib
+scikit-learn
+jinja2
+deepseek

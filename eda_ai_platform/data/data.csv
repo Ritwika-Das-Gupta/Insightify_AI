@@ -1,0 +1,73 @@
+Age,Income,Spending_Score,Gender,City
+34,75000,45,Female,New York
+56,,78,Male,Los Angeles
+29,48000,,Female,Chicago
+42,120000,90,Male,Houston
+61,95000,32,Female,New York
+23,32000,67,Male,Los Angeles
+45,,88,Female,Chicago
+38,110000,54,Male,Houston
+50,67000,76,Female,New York
+27,53000,43,Male,Los Angeles
+33,,65,Female,Chicago
+47,140000,89,Male,Houston
+22,28000,34,Female,New York
+59,82000,71,Male,Los Angeles
+40,,56,Female,Chicago
+55,135000,92,Male,Houston
+31,62000,48,Female,New York
+26,,77,Male,Los Angeles
+44,105000,63,Female,Chicago
+52,78000,85,Male,Houston
+36,45000,39,Female,New York
+21,,58,Male,Los Angeles
+48,125000,81,Female,Chicago
+57,92000,74,Male,Houston
+30,58000,52,Female,New York
+25,,69,Male,Los Angeles
+43,115000,87,Female,Chicago
+54,83000,73,Male,Houston
+35,49000,41,Female,New York
+20,,66,Male,Los Angeles
+49,130000,91,Female,Chicago
+58,88000,75,Male,Houston
+32,54000,47,Female,New York
+24,,68,Male,Los Angeles
+46,118000,86,Female,Chicago
+53,79000,72,Male,Houston
+37,47000,40,Female,New York
+19,,57,Male,Los Angeles
+51,128000,93,Female,Chicago
+60,90000,70,Male,Houston
+28,56000,44,Female,New York
+22,,64,Male,Los Angeles
+41,112000,82,Female,Chicago
+56,80000,79,Male,Houston
+39,50000,38,Female,New York
+18,,55,Male,Los Angeles
+50,132000,94,Female,Chicago
+62,85000,80,Male,Houston
+29,59000,46,Female,New York
+23,,62,Male,Los Angeles
+44,116000,84,Female,Chicago
+55,81000,78,Male,Houston
+34,51000,37,Female,New York
+20,,53,Male,Los Angeles
+52,129000,95,Female,Chicago
+63,87000,83,Male,Houston
+31,60000,49,Female,New York
+25,,61,Male,Los Angeles
+45,114000,83,Female,Chicago
+57,82000,77,Male,Houston
+36,52000,36,Female,New York
+19,,51,Male,Los Angeles
+53,131000,96,Female,Chicago
+64,86000,82,Male,Houston
+30,61000,50,Female,New York
+24,,60,Male,Los Angeles
+46,113000,85,Female,Chicago
+58,83000,76,Male,Houston
+35,53000,35,Female,New York
+18,,50,Male,Los Angeles
+54,133000,97,Female,Chicago
+65,89000,81,Male,Houston

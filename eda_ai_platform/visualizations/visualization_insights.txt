@@ -1,0 +1,11 @@
+# Insights
+1. **Distribution of Engine Horsepower**: The histogram shows the distribution of engine horsepower (HP) across the dataset. Most vehicles in this sample have engine HP clustered around 230-335, with a peak near 300 HP. This indicates that the dataset contains high-performance vehicles.
+
+2. **Engine HP vs MSRP**: The scatter plot reveals a positive correlation between engine horsepower and MSRP (Manufacturer's Suggested Retail Price). Vehicles with higher horsepower tend to have a higher price. Additionally, the plot shows that Coupe-style vehicles generally have higher horsepower and MSRP compared to Convertibles.
+
+3. **Average MSRP by Vehicle Style**: The bar plot compares the average MSRP for different vehicle styles. Coupes have a higher average MSRP compared to Convertibles, suggesting that Coupes are generally more expensive in this dataset.
+
+4. **Correlation Heatmap**: The heatmap visualizes the correlation between numerical features. Key insights include:
+   - Engine HP and MSRP have a strong positive correlation, confirming the relationship observed in the scatter plot.
+   - Engine Cylinders also show a positive correlation with Engine HP and MSRP, indicating that vehicles with more cylinders tend to be more powerful and expensive.
+   - Highway MPG and City MPG are highly correlated, as expected, since both measure fuel efficiency.
